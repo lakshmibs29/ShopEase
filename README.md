@@ -17,3 +17,4 @@ ShopEase is a responsive e-commerce web application developed as an academic pro
 
 ## 👩‍💻 Author
 Lakshmi BS
+🔗 LinkedIn: https://linkedin.com/in/lakshmi-b-s-098b542aa
